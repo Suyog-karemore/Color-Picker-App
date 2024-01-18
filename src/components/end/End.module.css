@@ -1,0 +1,11 @@
+.endbox {
+  height: 700px;
+  padding: 200px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.text {
+  font-family: cursive;
+  font-size: 100px;
+}
